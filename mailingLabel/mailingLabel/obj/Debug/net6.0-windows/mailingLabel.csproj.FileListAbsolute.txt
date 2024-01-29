@@ -1,0 +1,7 @@
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.csproj.AssemblyReference.cache
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.Form1.resources
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.csproj.GenerateResource.cache
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.AssemblyInfoInputs.cache
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.AssemblyInfo.cs
+F:\programs\mailingLabel\mailingLabel\obj\Debug\net6.0-windows\mailingLabel.csproj.CoreCompileInputs.cache
