@@ -1,0 +1,17 @@
+F:\programs\labellingInformation\labellingInformation\bin\Debug\net6.0-windows\labellingInformation.exe
+F:\programs\labellingInformation\labellingInformation\bin\Debug\net6.0-windows\labellingInformation.deps.json
+F:\programs\labellingInformation\labellingInformation\bin\Debug\net6.0-windows\labellingInformation.runtimeconfig.json
+F:\programs\labellingInformation\labellingInformation\bin\Debug\net6.0-windows\labellingInformation.dll
+F:\programs\labellingInformation\labellingInformation\bin\Debug\net6.0-windows\labellingInformation.pdb
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.csproj.AssemblyReference.cache
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.Form1.resources
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.csproj.GenerateResource.cache
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.GeneratedMSBuildEditorConfig.editorconfig
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.AssemblyInfoInputs.cache
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.AssemblyInfo.cs
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.csproj.CoreCompileInputs.cache
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.dll
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\refint\labellingInformation.dll
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.pdb
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\labellingInformation.genruntimeconfig.cache
+F:\programs\labellingInformation\labellingInformation\obj\Debug\net6.0-windows\ref\labellingInformation.dll
